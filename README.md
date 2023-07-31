@@ -1,2 +1,2 @@
 I'm Davidson Jose 
-I'm a programmer😎
+I'm a Software Engineer
